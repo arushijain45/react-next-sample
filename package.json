@@ -1,0 +1,20 @@
+{
+  "name": "next-dni",
+  "version": "1.0.0",
+  "description": "Sample App for dni using nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^4.1.4",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
+  }
+}
